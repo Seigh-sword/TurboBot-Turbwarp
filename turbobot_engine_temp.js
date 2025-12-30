@@ -614,4 +614,4 @@
 
   Scratch.extensions.register(new TurboBot());
 
-})(Scratch);"
+})(Scratch);
